@@ -1,1 +1,20 @@
-//css  file for Site A
+body {
+    background-color: skyblue;}
+body {
+    font-family: cursive;}
+h1 {
+    font-size: 50
+}
+p {
+    font-family: monospace
+}
+body {
+background-image: url("../pics/Centre/seal.png");
+background-repeat: no-repeat;
+    background-position: right;
+}
+.navigaton{
+    background-image: url("../pics/Centre/landscape.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom
+}
