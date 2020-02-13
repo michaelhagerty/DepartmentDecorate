@@ -1,1 +1,26 @@
-//css  file for Site B
+body {
+    background-color: skyblue;}
+body {
+    font-family: cursive;}
+h1 {
+    font-size: 50
+}
+p {
+    font-family: monospace
+}
+body {
+background-image: url("../pics/Centre/seal.png");
+background-repeat: no-repeat;
+    background-position: right;
+}
+#landing {background-color: beige}
+#Economics {background-color: aquamarine}
+#Politics {background-color: coral}
+#Mathematics {background-color: cornflowerblue}
+#ComputerScience {background-color: darkseagreen}
+th {
+    border-width: medium;
+    border-style: groove
+}
+td {border-width: medium;
+border-style: groove}

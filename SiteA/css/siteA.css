@@ -13,8 +13,14 @@ background-image: url("../pics/Centre/seal.png");
 background-repeat: no-repeat;
     background-position: right;
 }
-.navigaton{
-    background-image: url("../pics/Centre/landscape.jpg");
-    background-repeat: no-repeat;
-    background-position: bottom
+#landing {background-color: beige}
+#Economics {background-color: aquamarine}
+#Politics {background-color: coral}
+#Mathematics {background-color: cornflowerblue}
+#ComputerScience {background-color: darkseagreen}
+th {
+    border-width: medium;
+    border-style: groove
 }
+td {border-width: medium;
+border-style: groove}
