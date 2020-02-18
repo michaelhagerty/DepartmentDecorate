@@ -1,23 +1,27 @@
 body {
-    background-color: skyblue;}
+    background-color: khaki;}
 body {
-    font-family: cursive;}
+    font-family: serif;}
 h1 {
     font-size: 50
 }
 p {
-    font-family: monospace
+    font-family: sans-serif;
+
 }
 body {
-background-image: url("../pics/Centre/seal.png");
+background-image: url("../pics/logo.png");
 background-repeat: no-repeat;
-    background-position: right;
+    background-position: top right;
 }
-#landing {background-color: beige}
-#Economics {background-color: aquamarine}
-#Politics {background-color: coral}
-#Mathematics {background-color: cornflowerblue}
-#ComputerScience {background-color: darkseagreen}
+body {
+   
+}
+#Economics {background-color: gold}
+#Politics {background-color: pink}
+#Mathematics {background-color: salmon}
+#ComputerScience {background-color: palegreen}
+#landing {background-color: peachpuff}
 th {
     border-width: medium;
     border-style: groove
